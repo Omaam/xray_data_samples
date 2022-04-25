@@ -1,5 +1,8 @@
 # Directory structure
 sample
-├── object_name
-├── cir_x1
-└── j1820
+├── satelite_name
+│   ├── object_name1
+│   └── object_name2
+└── nicer
+    ├── cir_x1
+    └── j1820
